@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mandeep Kumar"
 title_separator          : "-"
 name                     : &name "Mandeep Kumar"
-description              : &description "I am Phd scholar at IIT Jammu"
+description              : &description "Phd scholar at IIT Jammu"
 url                      : https://mandeepkumar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Mandeepsansalwal/mandeepkumar.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Mandeep Kumar"
   avatar           : "profile.png"
-  bio              : "I am PhD scholar in Department of Mathematics at IIT Jammu"
+  bio              : "PhD scholar in Department of Mathematics at IIT Jammu"
   location         : "Jammu"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "mandeepkumar"
   google_plus      :
   keybase          :
   instagram        :
